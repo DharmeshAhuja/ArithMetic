@@ -1,0 +1,19 @@
+{
+  "name": "arith",
+  "version": "1.0.0",
+  "description": "All Arithmetic operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DharmeshAhuja/ArithMetic.git"
+  },
+  "author": "AhujaBrothers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DharmeshAhuja/ArithMetic/issues"
+  },
+  "homepage": "https://github.com/DharmeshAhuja/ArithMetic#readme"
+}
