@@ -15,6 +15,6 @@
   "bugs": {
     "url": "https://github.com/DharmeshAhuja/ArithMetic/issues"
   },
-  "homepage": "https://github.com/DharmeshAhuja/ArithMetic#readme",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "homepage": "https://github.com/DharmeshAhuja/ArithMetic#readme"
+  //"publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
