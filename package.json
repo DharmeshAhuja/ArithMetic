@@ -1,5 +1,5 @@
 {
-  "name": "arith",
+  "name": "arithall",
   "version": "1.0.0",
   "description": "All Arithmetic operations",
   "main": "index.js",
@@ -16,5 +16,5 @@
     "url": "https://github.com/DharmeshAhuja/ArithMetic/issues"
   },
   "homepage": "https://github.com/DharmeshAhuja/ArithMetic#readme"
-  //"publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  
 }
